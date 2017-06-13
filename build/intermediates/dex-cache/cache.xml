@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/0f5e108e10e15942daf86d6647585117c8061e92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3f874119a37ed490ede8af81bd72791627ca4e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/ceb178fc3cc18da0aa3535f02c3b826f031765bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e82a332dcb78f644b483642274c4e2f7796ddf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_19cdf7c50c3b54cff80be482d7e5611ba10c5263/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/f03ace3b32b32c5830e6204a8c0077982a9297c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e87cf7175801d8f881aaffa266e4734f1a11fe5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/1d82e0690d26863a9718318f87ca868e044c3973/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f200e74a956ac5846370915d93bd14da485d88c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a942d1c47a1d76cfa979fe0743c3444f8ba662b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02ff1e5f1b7ac001122659bcde8c206b7873d6a3">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d63c6f9995125b26b8edf2a4d4998bf624a2f92f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/a6bfea750dd65b6be579de822690219d81245261/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e31e3ff1a598a44c6c56cfa2c364e3f75febaafc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/fafb7c3a91bd9d38b955424797e6339f0d44f02f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2de7c1c888be31227b922aa9393d369a8543294d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/77929838770454f44b4248279508a27d5671ec23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bf5d67dca405c671cc548e7f0e074960f28e358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77bfed823d88527fbc0d09da566f9d367ed03a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/28bc1bdb201772435e60588e2f2c7346097c0630/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6b46e6ce8362ed2e649964062b3c5872b3bc703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/25b8bdd728c874f0c14257ccbff78f48d3dc8cc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1733281ba5f5ee799ca08515617efbd8d0d7a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/douxure/.android/build-cache/82145e29d294225e6c7204065b73173fc9dbfcd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6199c1702716012a7e8949e9f51a0e679e5207d/classes.dex" />
+    </item>
+
+</items>
