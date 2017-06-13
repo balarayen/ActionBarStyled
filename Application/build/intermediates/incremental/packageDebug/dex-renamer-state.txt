@@ -1,7 +1,0 @@
-#Tue Jun 13 23:13:38 IST 2017
-base.0=/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77bfed823d88527fbc0d09da566f9d367ed03a65
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d63c6f9995125b26b8edf2a4d4998bf624a2f92f/classes.dex
-base.1=/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d63c6f9995125b26b8edf2a4d4998bf624a2f92f
-file.0=/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77bfed823d88527fbc0d09da566f9d367ed03a65/classes.dex

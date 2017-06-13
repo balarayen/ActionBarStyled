@@ -32,10 +32,6 @@
         "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
@@ -74,10 +70,6 @@
     {
         "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
         "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",

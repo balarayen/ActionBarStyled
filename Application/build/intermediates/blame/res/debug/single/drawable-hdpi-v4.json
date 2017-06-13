@@ -76,12 +76,12 @@
         "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/douxure/.android/build-cache/c0c17e4c8ebc3be61de2958794ea5ccc176c5a9c/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/douxure/University/android/ActionBarStyled/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
