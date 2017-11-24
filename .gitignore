@@ -9,3 +9,4 @@
 .externalNativeBuild
 /Application/Application.iml
 /Application/build
+.idea/modules.xml
