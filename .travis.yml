@@ -24,13 +24,13 @@ android:
     - echo -e "\n84831b9409646a918e30573bab4c9c91346d8abd" > "$ANDROID_HOME/licenses/android-sdk-preview-license"
 
 script:
-  - "./gradlew clean build -PdisablePreDex --stacktrace"
+  - "./gradlew clean build assembleRelease -Pandroid.injected.signing.store.file=debug.keystore -Pandroid.injected.signing.store.password=android -Pandroid.injected.signing.key.alias=androiddebugkey -Pandroid.injected.signing.key.password=android  -PdisablePreDex --stacktrace"
 
 deploy:
   provider: testfairy
   api-key: "02273d28cdd18638d5f7cebe52460b6c67143c9f"
   skip_cleanup: true
-  app-file: $TRAVIS_BUILD_DIR/Application/build/outputs/apk/Application-debug.apk
+  app-file: $TRAVIS_BUILD_DIR/Application/build/outputs/apk/Application-release.apk
   keystore-file: debug.keystore
   storepass: android
-  alias: android
+  alias: androiddebugkey
