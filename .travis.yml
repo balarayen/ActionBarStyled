@@ -1,3 +1,7 @@
+language: android
+sudo: required
+jdk: oraclejdk7
+
 android:
   components:
     - tools
@@ -9,3 +13,6 @@ android:
 
     # The SDK version used to compile your project
     - android-25
+
+script:
+   - ./gradlew build connectedCheck
