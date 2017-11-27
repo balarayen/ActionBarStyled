@@ -26,10 +26,13 @@ android:
 script:
   - "./gradlew clean build -PdisablePreDex --stacktrace"
 
+before_deploy:
+  - cd Application/build/outputs/apk/
+
 deploy:
   provider: testfairy
   api-key: "02273d28cdd18638d5f7cebe52460b6c67143c9f"
-  app-file: ./Application/build/outputs/apk/Application-debug.apk
+  app-file: Application-debug.apk
   keystore-file: debug.keystore
   storepass: android
   alias: android
