@@ -29,4 +29,4 @@ script:
 deploy:
   provider: testfairy
   api-key: "02273d28cdd18638d5f7cebe52460b6c67143c9f"
-  app-file: Application\build\outputs\apk\Application-release-unsigned.apk
+  app-file: Application\build\outputs\apk\Application-debug.apk
